@@ -1,0 +1,38 @@
+html{
+    font-family: 'Caveat', cursive;
+}
+#k{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    color: firebrick;
+    background-color:rgb(233, 197, 185)
+}
+*{
+    background-color: rgb(240, 236, 218);
+}
+h1{
+    font-size: 70px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    font-weight: bold;
+    color:saddlebrown;
+    font-size: 30px;
+}
+#a{
+    color: rgb(213, 90, 90) ;
+    font-size: 30px;
+}
+#b{
+    
+    text-align: right;
+}
+#c{
+    color: darkred;
+    font-size: 30px;
+    font-weight: bold;
+}
